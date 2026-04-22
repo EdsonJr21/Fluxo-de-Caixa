@@ -1,4 +1,4 @@
-# Projeto: Gestão de Fluxo de Caixa (Contas a Pagar e Receber)
+# Gestão de Fluxo de Caixa (Contas a Pagar e Receber)
 
 ## 📋 Descrição do Projeto
 Este projeto consiste num sistema de gestão financeira desenvolvido em Excel, focado no controlo operacional de Contas a Pagar e Contas a Receber. O objetivo é fornecer uma visão clara da saúde financeira de uma organização, permitindo monitorizar prazos, identificar inadimplências e apoiar a tomada de decisão estratégica através de indicadores-chave (KPIs).
