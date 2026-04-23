@@ -1,7 +1,7 @@
-ID;Data de Emiss„o;Fornecedor;DescriÁ„o;Valor;Vencimento;Data a Pagar;Dias para Vencer;Status;Forma de Pagamento;ObservaÁ„o
-1;01/04/2026;Imobili·ria Bahia;Aluguel EscritÛrio; R$ 3.500,00 ;13/04/2026;12/04/2026;0;Pago; PIX ; Pagamento Adiantado 
-2;02/04/2026; Coelba ; Energia ElÈtrica ; R$ 450,00 ;18/04/2026;15/04/2026;0;Pago; Boleto ; Pagamento Adiantado 
+ID;Data de Emiss√£o;Fornecedor;Descri√ß√£o;Valor;Vencimento;Data a Pagar;Dias para Vencer;Status;Forma de Pagamento;Observa√ß√£o
+1;01/04/2026;Imobili√°ria Bahia;Aluguel Escrit√≥rio;3500,00;13/04/2026;12/04/2026;0;Pago;PIX;Pagamento Adiantado
+2;02/04/2026;Coelba;Energia El√©trica;450,00;18/04/2026;15/04/2026;0;Pago;Boleto;Pagamento Adiantado 
 3;05/04/2026; Receita Federal ; Simples Nacional ; R$ 1.120,00 ;20/04/2026;;Atrasado;Vencido;; Pagamento Atrasado 
-4;10/04/2026; Papelaria Grafite ; Material de EscritÛrio ; R$ 320,00 ;20/04/2026;22/04/2026;0;Pago; Cart„o ;
+4;10/04/2026; Papelaria Grafite ; Material de Escrit√≥rio ; R$ 320,00 ;20/04/2026;22/04/2026;0;Pago; Cart√£o ;
 5;15/04/2026; Soft Systems ; Assinatura ERP ; R$ 850,00 ;15/05/2026;;23;Pendente;;
-6;20/04/2026; Limpeza & Cia ; ServiÁos de ConservaÁ„o ; R$ 1.200,00 ;05/05/2026;;13;Pendente;;
+6;20/04/2026; Limpeza & Cia ; Servi√ßos de Conserva√ß√£o ; R$ 1.200,00 ;05/05/2026;;13;Pendente;;
