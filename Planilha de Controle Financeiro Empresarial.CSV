@@ -1,7 +1,0 @@
-ID,Data de Emissão,Fornecedor,Descrição,Valor,Vencimento,Data a Pagar,Dias para Vencer,Status,Forma de Pagamento,Observação
-1,01/04/2026,Imobiliária Bahia,Aluguel Escritório,3500.00,13/04/2026,12/04/2026,0,Pago,PIX,Pagamento Adiantado
-2,02/04/2026,Coelba,Energia Elétrica,450.00,18/04/2026,15/04/2026,0,Pago,Boleto,Pagamento Adiantado
-3,05/04/2026,Receita Federal,Simples Nacional,1120.00,20/04/2026,,,Vencido,,Pagamento Atrasado
-4,10/04/2026,Papelaria Grafite,Material de Escritório,320.00,20/04/2026,22/04/2026,0,Pago,Cartão,
-5,15/04/2026,Soft Systems,Assinatura ERP,850.00,15/05/2026,,23,Pendente,,
-6,20/04/2026,Limpeza & Cia,Serviços de Conservação,1200.00,05/05/2026,,13,Pendente,,

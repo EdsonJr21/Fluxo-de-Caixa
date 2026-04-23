@@ -1,0 +1,10 @@
+ID;Data de Emissão;Cliente;Descrição;Categoria; Valor ;Vencimento;Dias para Vencer;Data a Receber;Status;Forma de Pagamento;Observação
+1;01/04/2026;Tech Solutions Ltda;Consultoria TI;Serviços; R$ 4.500 ;15/04/2026;-7;14/04/2026;Recebido;PIX; Pago antecipado 
+2;05/04/2026; Padaria Pão de Mel ; Fornecimento Mensal ;Benefícios; R$ 1.200 ;05/05/2026;13;;Pendente;;
+3;10/04/2026; Supermercado Silva ; Venda de Mercadorias ;Combustível; R$ 8.750 ;20/04/2026;-2;20/04/2026;Recebido;Boleto;
+4;12/04/2026; Academia Fit Life ; Plano Corporativo ;Serviços; R$ 2.300 ;12/05/2026;20;28/04/2026;Recebido;Transferência;
+5;15/04/2026; Clínica Sorriso ; Serviços de Auditoria ; Serviços ; R$ 3.100 ;15/04/2026;-7;;Vencido;; Pagamento Atrasado 
+6;18/04/2026; Posto Central ; Combustível Frotas ; Combustível ; R$ 1.850 ;18/05/2026;26;;Pendente;;
+7;19/04/2026;Academia Fit Life;Plano Corporativo;Benefícios; R$ 2.985 ;19/05/2026;27;29/04/2026;Recebido;;
+8;20/04/2026;Clínica Sorriso;Serviços de Auditoria;Serviços; R$ 3.987 ;20/05/2026;28;;;;
+9;21/04/2026;Posto Central;Combustível Frotas;Combustível; R$ 4.778 ;21/05/2026;29;;;;
