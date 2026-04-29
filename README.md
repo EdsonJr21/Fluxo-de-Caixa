@@ -1,5 +1,25 @@
 # 💼 Gestão Financeira – Contas a Pagar e Receber (Excel)
 
+## 📊 Visão Rápida do Projeto
+
+<p align="center">
+  <img width="1330" height="179" src="https://github.com/user-attachments/assets/abc4249e-c623-4866-921e-ad18d8a5bb69" />
+</p>
+
+<p align="center">
+  <img width="1330" height="205" src="https://github.com/user-attachments/assets/6a43444d-118d-4704-923b-3e3a25601ae1" />
+</p>
+
+<p align="center">
+  <img width="1330" height="200" src="https://github.com/user-attachments/assets/f0725cb6-e1ef-41bd-b4b0-f0db999ee16a" />
+</p>
+
+<p align="center">
+  <img width="254" height="151" src="https://github.com/user-attachments/assets/dfedbc14-d108-45ee-b8de-0684ab109be2" />
+</p>
+
+---
+
 ## 📌 Sobre o Projeto
 Este projeto foi desenvolvido em Excel com foco no controle e organização de entradas e saídas financeiras de uma empresa.
 
@@ -15,39 +35,6 @@ O objetivo é facilitar a organização das informações e apoiar a tomada de d
 - Organização por datas, clientes e fornecedores  
 - Visão geral do fluxo de caixa do período  
 - Resumos automáticos para análise rápida  
-
----
-
-## 📊 Visão do Projeto
-
-### 💰 Contas a Pagar
-Controle de despesas, prazos e status de pagamentos.
-
-<p align="center">
-  <img width="1330" height="179" src="https://github.com/user-attachments/assets/abc4249e-c623-4866-921e-ad18d8a5bb69" />
-</p>
-
----
-
-### 💵 Contas a Receber
-Acompanhamento dos valores a receber e controle de prazos.
-
-<p align="center">
-  <img width="1330" height="205" src="https://github.com/user-attachments/assets/6a43444d-118d-4704-923b-3e3a25601ae1" />
-</p>
-
----
-
-### 📈 Indicadores (KPIs)
-Resumo geral com os principais números financeiros do período.
-
-<p align="center">
-  <img width="1330" height="200" src="https://github.com/user-attachments/assets/f0725cb6-e1ef-41bd-b4b0-f0db999ee16a" />
-</p>
-
-<p align="center">
-  <img width="254" height="151" src="https://github.com/user-attachments/assets/dfedbc14-d108-45ee-b8de-0684ab109be2" />
-</p>
 
 ---
 
